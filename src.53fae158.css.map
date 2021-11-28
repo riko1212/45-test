@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/layout/_example.scss"],"names":[],"mappings":"AAAA,WACE","file":"src.53fae158.css","sourceRoot":"../src","sourcesContent":[".example p {\n  color: green;\n}\n"]}
